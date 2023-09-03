@@ -4,33 +4,40 @@ import './portfolio.css'
 
 const data = [
   {
-    id: 1,
+    id: 5,
+    title: 'Watch List',
+    description: 'Developed a web application to practice CRUD concepts of Ruby on Rails.',
+    github: 'https://github.com/elidianeasb/rails-watch-list',
+    demo: 'https://github.com/elidianeasb/rails-watch-list'
+  },
+  {
+    id: 4,
     title: 'SandSpot',
     description: 'Developed a web application, creating a full-stack MVC project using Ruby on Rails.',
     github: 'https://github.com/flaviojsmamede/sandspot',
     demo: 'https://sandspot-311de011306d.herokuapp.com/'
   },
   {
-    id: 2,
+    id: 3,
     title: 'Jump Monkey',
     description: 'Desktop game developed using JavaScript, HTML, CSS, and the Canvas element, with the primary goal of applying DOM manipulation concepts.',
     github: '',
     demo: 'https://elidianeasb.github.io/JumpMonkey/'
   },
   {
-    id: 3,
+    id: 2,
     title: 'IronTracker',
     description: 'Complete Web application developed using Node.js, Express.js, CSS, MongoDB, Mongoose, and Handlebars.',
     github: 'https://github.com/elidianeasb/iron-tracker',
     demo: 'https://project-irontracker.herokuapp.com/'
   },
   {
-    id: 4,
+    id: 1,
     title: 'Spaço Zen',
     description: 'Full-stack application using the MERN stack (MongoDB, Express, React and Node.JS).',
     github: 'https://github.com/elidianeasb/spacozen-server',
     demo: 'https://spacozen.netlify.app'
-  },
+  }
 ]
 
 
