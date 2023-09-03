@@ -6,7 +6,7 @@ const data = [
   {
     id: 1,
     title: 'SandSpot',
-    description: 'Developed a web application, creating a full-stack MVC project using Ruby on Rails.)',
+    description: 'Developed a web application, creating a full-stack MVC project using Ruby on Rails.',
     github: 'https://github.com/flaviojsmamede/sandspot',
     demo: 'https://sandspot-311de011306d.herokuapp.com/'
   },
@@ -27,7 +27,7 @@ const data = [
   {
     id: 4,
     title: 'Spaço Zen',
-    description: 'Full-stack application using the MERN stack (MongoDB, Express, React and Node.JS)',
+    description: 'Full-stack application using the MERN stack (MongoDB, Express, React and Node.JS).',
     github: 'https://github.com/elidianeasb/spacozen-server',
     demo: 'https://spacozen.netlify.app'
   },

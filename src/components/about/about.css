@@ -22,10 +22,12 @@
     border-radius: 2rem;
     overflow: hidden;
     transition: var(--transition);
+    width: 66%;
+    transform: scaleX(-1);
 }
 
 .about__me-image:hover {
-    transform: rotate(0);
+    transform: rotate(10);
 }
 
 .about__cards {
@@ -87,7 +89,7 @@
     }
 
     .about__content p {
-        text-align: center;
+        text-align: justify;
     }
 }
 

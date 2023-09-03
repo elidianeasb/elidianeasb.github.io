@@ -20,7 +20,7 @@
 
 .skills__container > div h3 {
     text-align: center;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     color: var(--color-primary);
     font-size: 1.5rem;
 }
@@ -66,4 +66,23 @@
     .skills__container {
         gap: 1rem;
     }  
+
+    .skills__details {
+        display: flex;
+        gap: 1rem;
+        margin: 0.5rem auto;
+        align-items: center;
+    }
+    
+    .skills__details-icon {
+        font-size: 2rem;
+        align-items: center;
+        color: var(--color-primary);
+    }
+
+    .skills__container > div {
+        width: var(--container-width-sm);
+        padding: 2rem;
+        margin: 0 auto;
+    }
 }

@@ -1,9 +1,7 @@
 import React from 'react'
 import './experience.css'
-import ME from '../../assets/me.png'
 import { FaAward } from 'react-icons/fa'
 import { PiGraduationCap } from 'react-icons/pi'
-import { BiSolidDog } from 'react-icons/bi'
 import { BiWorld } from 'react-icons/bi'
 import InnerCard from './InnerCard'
 import { useState } from 'react'
@@ -47,7 +45,7 @@ function Experience() {
     subjects: [
       {
         name: 'BIM Modeler - WA Engineering | Lisbon - Oct 2021 - Oct 2022',
-        content: 'Contributed in diverse civil engineering projects within multidisciplinary teams.'
+        content: 'Worked in diverse civil engineering projects within multidisciplinary teams.'
       },
       {
         name: 'Junior Civil Engineer - Ambar | Mar 2018 - Jan 2019',
