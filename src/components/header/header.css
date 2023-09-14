@@ -93,7 +93,6 @@ header {
   .arrow {
     width: 20px;
     height: 20px;
-    border: solid black;
     border-width: 0 2px 2px 0;
     transform: rotate(45deg);
     animation: arrowBounce 1s infinite alternate;

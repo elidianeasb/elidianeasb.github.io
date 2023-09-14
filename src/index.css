@@ -11,7 +11,7 @@
 }
 
 :root {
-    --color-bg: black;
+    --color-bg: rgb(19, 19, 19);
     --color-bg-variant: #0c0c42;
     --color-primary: #4db5ff;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
@@ -38,7 +38,6 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url('./assets/bg-texture.png');
 }
 
 /* ----------------------GENERAL STYLES---------------------- */
